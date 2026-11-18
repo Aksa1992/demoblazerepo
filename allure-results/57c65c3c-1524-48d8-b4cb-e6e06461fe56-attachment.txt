@@ -1,0 +1,5 @@
+Application opened
+Login completed
+Login verified
+Product added.
+Phone added to cart
